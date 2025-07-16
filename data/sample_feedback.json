@@ -1,0 +1,34 @@
+[
+  {
+    "feedback": "The product quality is amazing! Really love the design and it works perfectly. Great value for money.",
+    "metadata": {"product_id": "P001", "rating": 5, "date": "2024-01-15"}
+  },
+  {
+    "feedback": "Terrible customer service. The product arrived damaged and nobody responded to my emails for weeks.",
+    "metadata": {"product_id": "P002", "rating": 1, "date": "2024-01-16"}
+  },
+  {
+    "feedback": "It's okay, not great but not bad either. The price is reasonable but the design could be better.",
+    "metadata": {"product_id": "P001", "rating": 3, "date": "2024-01-17"}
+  },
+  {
+    "feedback": "Fast shipping and great packaging! The product works as advertised. Very happy with the purchase.",
+    "metadata": {"product_id": "P003", "rating": 4, "date": "2024-01-18"}
+  },
+  {
+    "feedback": "Way too expensive for what you get. The quality is poor and it broke after just one week of use.",
+    "metadata": {"product_id": "P002", "rating": 2, "date": "2024-01-19"}
+  },
+  {
+    "feedback": "Outstanding performance! This product exceeded my expectations. The features are exactly what I needed.",
+    "metadata": {"product_id": "P004", "rating": 5, "date": "2024-01-20"}
+  },
+  {
+    "feedback": "Confusing user interface and the instructions are not clear. Had to watch YouTube videos to figure it out.",
+    "metadata": {"product_id": "P003", "rating": 2, "date": "2024-01-21"}
+  },
+  {
+    "feedback": "Beautiful design and solid build quality. A bit pricey but worth it for the features you get.",
+    "metadata": {"product_id": "P004", "rating": 4, "date": "2024-01-22"}
+  }
+]
