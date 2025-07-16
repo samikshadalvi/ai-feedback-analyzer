@@ -1,0 +1,20 @@
+# Core utilities (install first)
+python-dotenv==1.0.0
+requests==2.31.0
+
+# Data processing
+numpy==1.26.2
+pandas==2.1.4
+
+# NLP packages (Python 3.12 compatible versions)
+nltk==3.8.1
+textblob==0.17.1
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.0
+wordcloud==1.9.2
+
+# Optional: Advanced NLP (only if you need it)
+ transformers==4.36.0
+ torch==2.1.1
